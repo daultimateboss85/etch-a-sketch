@@ -1,0 +1,23 @@
+.square {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: solid 2px blue;
+    border-radius: 5px;
+}
+.square:hover{
+    background-color: aqua;
+}    
+
+
+
+.grid {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.row {
+    display: flex;
+    
+}
